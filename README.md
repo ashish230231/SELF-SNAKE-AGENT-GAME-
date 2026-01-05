@@ -2,7 +2,7 @@
 Introduction
 This is a Pytorch implementation of DQN Agent
 
-In this project, I represent a simple self-driving car using the DQN algorithm
+In this project, I represent a simple selF-snake playing agnet using the DQN algorithm
 
 Deep Q-Network (DQN) : 
 DQN is a type of reinforcement learning algorithm that utilizes deep neural networks to help an agent learn the best course of action within an environment.
