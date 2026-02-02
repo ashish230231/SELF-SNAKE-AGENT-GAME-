@@ -1,5 +1,6 @@
 # SELF-SNAKE-AGENT-GAME 
-Introduction
+
+'''Introduction
 This is a Pytorch implementation of DQN Agent
 
 In this project, I represent a simple selF-snake playing agnet using the DQN algorithm
